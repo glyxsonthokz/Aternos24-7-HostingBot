@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ChillAndBuildSMP.aternos.me",
+    "ip": "ChillAndBuildSMP.aternos.me:61661",
     "port": 61661,
     "version": "1.21.11",
     "try-creative": false
